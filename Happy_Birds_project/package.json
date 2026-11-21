@@ -1,7 +1,7 @@
 {
   "name": "happy-birds",
   "productName": "Happy Birds",
-  "version": "1.2.4.0",
+  "version": "1.2.4",
   "description": "Only spanish",
   "author": "JB <Collatz Studios By JB>",
   "main": "main.js",
