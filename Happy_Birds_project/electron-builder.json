@@ -1,6 +1,7 @@
 {
   "appId": "com.happybirds.app",
   "productName": "Happy Birds",
+  "buildVersion": "1.2.4.0",
   "files": [
     "main.js",
     "preload.js",
